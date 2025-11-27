@@ -65,7 +65,7 @@ const Detailes = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex items-center gap-3">
-              <span className="font-semibold text-gray-700">المدة:</span>
+              <span className="font-semibold text-gray-700">تاريخ الرحلة:</span>
               <span className="text-gray-600">{trip.time}</span>
             </div>
             <div className="flex items-center gap-3">
